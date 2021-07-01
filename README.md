@@ -20,7 +20,7 @@ Image-Viewer 프로그램을 협업하여 개발하는 공간입니다.
 최초에는 각자 자신만의 개발 버전을 관리 할 예정이기때문에 fork 하여 자신의 저장소로 복사 후 진행하시면 됩니다. 일정 기간 이후 동일한 하나의 프로젝트에 각 기능을 나누어 개발 할 때에는 master-branch-merge 를 이용 하도록 하겠습니다.
 
 <div align="center">
-  <img src="/images/draft/image_viewer_description.jpg" width="70%">
+  <img src="/images/draft/image_viewer_design.jpg" width="70%">
 </div>
 
 
