@@ -34,34 +34,14 @@ Image-Viewer 프로그램을 협업하여 개발하는 공간입니다.
 
 
 
-## GUI Draft
-
-Viewer 의 다양한 기능에 따라 GUI 형태는 변경 될 수 있으며 아래 그림은 단순히 시안이라고 보시면 됩니다. 시안을 참고하셔서 이미지 뷰어의 편의성을 고려하여 개발하시면 됩니다.
+## GUI Design
 
 
-
-##### 시안1)
+##### ver1.0)
 
 <div align="center">
-  <img src="/images/draft/image_viewer1.jpg" width="50%">
+  <img src="/images/draft/image_viewer_design_ver1.jpg" width="50%">
 </div>
-
-
-##### 시안2)
-
-<div align="center">
-  <img src="/images/draft/image_viewer2.jpg" width="50%">
-</div>
-
-
-##### 시안3)
-
-<div align="center">
-  <img src="/images/draft/image_viewer3.jpg" width="50%">
-</div>
-
-
-
 
 
 ## Features
